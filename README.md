@@ -1,16 +1,13 @@
-## Hi there 👋
+### lithedream
 
-<!--
-**lithedream/lithedream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal space for sharp Java tools, thoughtful IDE craft, and exploratory AI work —  
+small in footprint, deep in purpose — guided by my DX/DI philosophy.
 
-Here are some ideas to get you started:
+I publish:
+- **Precise Java libraries** with explicit guarantees and minimal APIs
+- **IDE profiles and extensions** focused on flow, clarity, and intent
+- **AI experiments and personas**, from agent micro-services to prompt artifacts or AI personas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects are small in footprint, deliberate in purpose, and built to last.
+
+→ https://lithedream.github.io
